@@ -3,7 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 A simple web app to fetch github user details as well as the repository details.
 
+![image](https://user-images.githubusercontent.com/54587414/233861043-972dc5a5-c854-434e-b506-84a84727e1dc.png)
 
+![image](https://user-images.githubusercontent.com/54587414/233861070-e16b2380-feec-49fb-aa05-d51e0b3e0eea.png)
+
+![image](https://user-images.githubusercontent.com/54587414/233861106-b64eac35-efb4-444e-b5c0-693dbfbecb6e.png)
 
 ## Available Scripts
 
