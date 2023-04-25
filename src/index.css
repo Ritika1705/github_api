@@ -1,13 +1,67 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.container{
+  margin: 0 auto;
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#search_button{
+  text-align: center;
+  margin-left: 450px;
+}
+
+.centercard{
+  height: 40%;
+  width: 40%;
+  text-align: center;
+  margin-left: 350px;
+}
+
+.card{
+  margin: 10px 10px;
+  padding: 1.5em .5em .5em;
+  border-radius: 2em;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  
+}
+
+.card:hover {
+  transform: scale(1.1);
+  background: linear-gradient(to bottom, #ffff99 0%, #ff99cc 100%);
+}
+
+.round{
+    
+    width: 85%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+
+}
+
+.container-main{
+  padding: 15% 5%;
+  align-items: center;
+  text-align: center;
+}
+
+.pad, .btn{
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 0 5px 10px rgba(255,255,255,.5);
+}
+
+body {
+  background-color: #120439;
+  height: 100%;
+  font-family: 'tradegothiclt-bold', sans-serif;
+}
+
+#heading {
+  font-size: 5em;
+  color: white;
+  text-transform: uppercase;
+}
+
+h3{
+  color: white;
 }
